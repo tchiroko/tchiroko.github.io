@@ -16,7 +16,6 @@
 title:             Tchiroko
 github:
   is_project_page: true
-  repository_url:  https://github.com/tchiroko/tchiroko.github.io
 lang:              fr_FR
 email:             tchiroko@gmail.com
 description:       >- # this means to ignore newlines until "baseurl:"

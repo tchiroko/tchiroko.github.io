@@ -24,7 +24,7 @@ github_username:  tchiroko
 
 # Build settings
 markdown:         kramdown
-theme:            minima
+theme:            cayman
 plugins:
   - jekyll-feed
 

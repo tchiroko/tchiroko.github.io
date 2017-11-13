@@ -1,6 +1,8 @@
 <title>{{ page.title }}{% if page.title!="" %} | {% endif %}{{ site.title }}</title>
 <link type="text/css" rel="stylesheet" href="{{ '/assets/main.css?v=' | append: site.github.build_revision | relative_url }}" media="all">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1"> {% if page.metatags.description %}
+<meta name="description" content="{{ page.metatags.description }}"> {% endif %} {% if page.metatags.keywords %}
+<meta name="keywords" content="{{ page.metatags.keywords }}"> {% endif %}
 <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->

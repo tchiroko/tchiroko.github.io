@@ -1,7 +1,10 @@
 ---
 layout: post
-title: 'Ma première expérience par jeff.'
+title: 'Ma première expérience'
 auteur: jeff
+metatags:
+  description: "histoire de jeff se titulant ma premier expérience"
+  keywords: gay, premiere fois
 ---
 
 Voilà, j'ai 29 ans et je suis marié. Brun aux yeux bleus 1,76 m, 63 Kgs, et un peu sportif.

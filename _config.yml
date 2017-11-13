@@ -27,6 +27,8 @@ twitter_username: yaoitoru
 github_username:  tchiroko
 google_analytics: UA-109528543-1
 google_verify:    L4HJfBilg2eGRIgmMNEeY_p62xpWjCgjX--Vo_IRWzE
+paginate:         10
+paginate_path:    "/histoire/page:num/"
 exclude:
   - css
   - js
@@ -41,6 +43,7 @@ exclude:
 markdown:         kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

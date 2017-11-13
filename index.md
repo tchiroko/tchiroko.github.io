@@ -3,12 +3,20 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+header_img: site
 title: ''
 ---
-<ul>
+<div class="row">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <img src="{{ 'assets/post-bg.jpg' | append: site.github.build_revision | relative_url }}" alt="{{ post.title }}">
+        <div class="caption">
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.auteur }}</p>
+          <p><a href="{{ post.url }}" class="btn btn-primary" role="button">lire</a></p>
+        </div>
+      </div>
+    </div>
   {% endfor %}
-</ul>
+</div>

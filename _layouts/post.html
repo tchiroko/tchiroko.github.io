@@ -26,14 +26,24 @@
       <!--/.nav-collapse -->
     </div>
   </nav>
+  <header class="HeaderPost">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>{{ page.title }}</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
   <div class="container">
-    <h1>{{ page.title }}</h1>
-    <h2>Auteur : {{ page.auteur }}</h2>
     <blockquote>
       {{ content }}
     </blockquote>
   </div>
-  {% include js.html %}
+  {% include disqus.html %} {% include js.html %}
 </body>
 
 </html>

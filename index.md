@@ -5,6 +5,7 @@
 layout: default
 header_img: site
 title: 'Bienvenue'
+current: accueil
 ---
 <fieldset>
   <legend>Liste des dernières histoires</legend>

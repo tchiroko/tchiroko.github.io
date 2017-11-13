@@ -2,6 +2,7 @@
 layout: site
 title: Attention
 permalink: /disclaimer.html
+sitemap: false
 ---
 <div class="row">
   <div class="col-md-offset-3 col-md-6">

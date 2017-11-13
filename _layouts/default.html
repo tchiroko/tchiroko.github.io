@@ -18,10 +18,10 @@
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="/">Accueil</a></li>
-          <li><a href="/histoire">Histoires</a></li>
-          <li><a href="/apropos">A propos</a></li>
-          <li><a href="/contact">Contact</a></li>
+          <li{% if page.current=="accueil" %} class="active" {% endif %}><a href="/">Accueil</a></li>
+            <li{% if page.current=="histoire" %} class="active" {% endif %}><a href="/histoire">Histoires</a></li>
+              <li{% if page.current=="about" %} class="active" {% endif %}><a href="/apropos">A propos</a></li>
+                <li{% if page.current=="contact" %} class="active" {% endif %}><a href="/contact">Contact</a></li>
         </ul>
       </div>
       <!--/.nav-collapse -->

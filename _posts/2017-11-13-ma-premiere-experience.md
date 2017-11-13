@@ -5,6 +5,7 @@ auteur: jeff
 metatags:
   description: "histoire de jeff se titulant ma premier expérience"
   keywords: gay, premiere fois
+excerpt: Voila, j'ai 29 ans et je suis marié
 ---
 
 Voilà, j'ai 29 ans et je suis marié. Brun aux yeux bleus 1,76 m, 63 Kgs, et un peu sportif.

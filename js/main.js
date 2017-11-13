@@ -21,9 +21,14 @@ class Main
 		}
 		return ''
 	}
-	setCookie (cname, cvalue)
+	setCookie (cname, cvalue, exdays = 1)
 	{
-		document.cookie = `${cname}=${cvalue};path=/`
+		let temps = new Date()
+
+		temps.setTime(temps.getTime() + (exdays*24*60*60*1000))
+		let expires = temps.toGMTString()
+
+		document.cookie = `${cname}=${cvalue};expires=${expires};path=/`
 	}
 	disclaimer ()
 	{
@@ -40,6 +45,7 @@ class Main
 		}
 		else if(etat!=='' && total===2)
 		{
+			this.setCookie('disclaimer',1)
 			let href = $('#AcceptDisclaimer').attr('href')
 
 			document.location.replace(href)

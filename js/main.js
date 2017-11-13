@@ -36,13 +36,13 @@ class Main
 		{
 			let url =`${document.location.origin}/disclaimer`
 
-			//document.location.replace(url)
+			document.location.replace(url)
 		}
 		else if(etat!=='' && total===2)
 		{
 			let href = $('#AcceptDisclaimer').attr('href')
 
-			//document.location.replace(href)
+			document.location.replace(href)
 		}
 	}
 	clickAcceptDisclaimer (event)

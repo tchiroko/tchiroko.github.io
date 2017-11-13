@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Terreur en haute montagne (2)
-auteur: aeden
+auteur:
+  nom: aeden
 metatags:
   description: "histoire de aeden se titulant Terreur en haute montagne"
   keywords: gay, acteurs, adulte, non consentant, activités, pénétration anale, sexe brutal, sexe de groupe, viol, autoritaire, en pleine nature

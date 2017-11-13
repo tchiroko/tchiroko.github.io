@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Mauvaise rencontre au parc
-auteur: aeden
+auteur:
+  nom: aeden
 metatags:
   description: "histoire de aeden se titulant Mauvaise rencontre au parc"
   keywords: multi-ethnique, adulte, non consentant, doigtage, fessée, masturbation, pénétration anale, rimming, sexe brutal, sexe de groupe, récits gais, autoritaire

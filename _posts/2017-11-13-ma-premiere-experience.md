@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ma première expérience
-auteur: jeff
+auteur:
+  nom: jeff
 metatags:
   description: "histoire de jeff se titulant ma premier expérience"
   keywords: gay, premiere fois

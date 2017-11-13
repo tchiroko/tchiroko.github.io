@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Adepte au sauna (1)
-auteur: petitjeune93
+auteur:
+  nom: petitjeune93
 metatags:
   description: "histoire de Petitjeune93 se titulant Adepte au sauna"
   keywords: gay, sauna, minet, masturbation, exhibitionisme

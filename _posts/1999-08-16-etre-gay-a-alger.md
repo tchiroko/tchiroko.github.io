@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Être gay à alger
-auteur: hommeLibre
+auteur:
+  nom: hommeLibre
 metatags:
   description: "histoire de hommeLibre se titulant Être gay à alger"
   keywords: recits gais, pénétration anale, première fois, masturbation, safe sex, sexe oral

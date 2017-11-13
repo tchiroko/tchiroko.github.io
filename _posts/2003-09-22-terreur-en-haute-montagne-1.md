@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Terreur en haute montagne (1)
-auteur: bred
+auteur:
+  nom: bred
 metatags:
   description: "histoire de bred se titulant Terreur en haute montagne"
   keywords: gay, bondage, sous-vetement,drame, hétéro, sexe brutal, au boulot, domination

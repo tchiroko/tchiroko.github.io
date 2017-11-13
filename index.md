@@ -16,7 +16,7 @@ current: accueil
           <img src="{{ 'files/post-bg.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="{{ post.title }}">
           <div class="caption">
             <h3>{{ post.title }}</h3>
-            le {{ post.date | date: "%d/%m/%Y" }} par {% if post.email %}<a href="mailto:{{ post.email }}">{% endif %}{{ post.auteur}}{% if post.email %}</a>{% endif %}
+            le {{ post.date | date: "%d/%m/%Y" }} par {% if post.auteur.email %}<a href="mailto:{{ post.auteur.email }}">{% endif %}{{ post.auteur.nom}}{% if post.email %}</a>{% endif %}
             <p><a href="{{ post.url }}" class="btn btn-primary" role="button">lire</a></p>
           </div>
         </div>

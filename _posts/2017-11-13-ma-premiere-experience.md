@@ -3,7 +3,7 @@ layout: post
 title: 'Ma première expérience'
 auteur: jeff
 metatags:
-  description: "histoire de jeff se titulant ma premier expérience"
+  description: "histoire de jeff se titulant 'ma premier expérience'"
   keywords: gay, premiere fois
 excerpt: Voila, j'ai 29 ans et je suis marié
 ---

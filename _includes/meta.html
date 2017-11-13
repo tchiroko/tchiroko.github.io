@@ -1,0 +1,8 @@
+<title>{{ page.title }}{% if page.title!="" %} | {% endif %}{{ site.title }}</title>
+<link type="text/css" rel="stylesheet" href="{{ '/assets/main.css?v=' | append: site.github.build_revision | relative_url }}" media="all">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+{% if site.google_verify %}
+<meta name="google-site-verification" content="{{ site.google_verify }}" /> {% endif %}

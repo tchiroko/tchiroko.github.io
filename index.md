@@ -10,7 +10,7 @@ current: accueil
 <fieldset>
   <legend>Liste des dernières histoires</legend>
   <div class="row">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:6 %}
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
           <img src="{{ 'files/post-bg.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="{{ post.title }}">

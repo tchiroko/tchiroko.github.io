@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'Adepte au sauna (1)'
+title: Adepte au sauna (1)
 auteur: petitjeune93
 metatags:
-  description: "histoire de Petitjeune93 se titulant 'Adepte au sauna'"
+  description: "histoire de Petitjeune93 se titulant Adepte au sauna"
   keywords: gay, sauna, minet, masturbation, exhibitionisme
 excerpt: Quelques temps après mes 18 ans, j'ai commencé à sortir avec un homme de 20 ans mon aîné
+suite: adepte_du_sauna-2
 ---
 Quelques temps après mes 18 ans, j'ai commencé à sortir avec un homme de 20 ans mon aîné. Il ne faisait pas son âge, et j'ai tout de suite été séduit par ses yeux verts clairs et sa grande taille. Son prénom: Luc. Cela faisait quelques mois que nous sortions ensemble lorsque le sujet "sauna" est venu sur la table. Je n'y étais jamais allé, lui, si. Il s'y était bien amusé et étant très curieux de nature, je lui ai demandé si nous pouvions y aller les deux. Je dois reconnaître que je n'étais pas à l'aise du tout, stressé et anxieux, j'avais hésité à annuler cette "visite". Mais après ma curiosité fut la plus forte et nous prîmes la voiture pour aller dans ce célèbre sauna suisse, à quelques minutes de chez lui.
 

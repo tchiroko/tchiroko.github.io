@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'Adepte au sauna (2)'
+title: Adepte au sauna (2)
 auteur: petitjeune93
 metatags:
-  description: "histoire de Petitjeune93 se titulant 'Adepte au sauna'"
+  description: "histoire de Petitjeune93 se titulant Adepte au sauna"
   keywords: gay, sauna, minet, masturbation, exhibitionisme
 excerpt: J'avais toujours eu une vision du couple très basique
+precedent: adepte-au-sauna-1
 ---
 J'avais toujours eu une vision du couple très basique. Fidélité, relation fermée... Pourtant, avec Luc, je découvrais tout autre chose. J'étais mi-honteux, mi-excité, par ce que l'on avait fait au sauna, il y avait quelques jours déjà. Nous en avions reparlé pour éviter d'éventuels malaises entre lui et moi, mon âge faisait que Luc était mon premier petit copain et je lui avais avoué ne pas avoir imaginé m'envoyer en l'air dans un sauna. Rassurant et prévenant, il me fit comprendre qu'il ne fallait pas que je me sente forcé et qu'on faisait ça ensemble si les deux le voulaient. Le sujet d'un plan à trois vint vite sur la table, il me confia qu'il serait excité à l'idée de me voir avec un autre, avec protection, de savoir que je suce et que je me fais prendre par un autre sous ses yeux l'excitait vraiment. Au début, j'étais étonné, mais l'idée me séduit. Pourquoi ne pas essayer une fois ?
 

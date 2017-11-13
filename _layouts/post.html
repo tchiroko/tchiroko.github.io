@@ -48,6 +48,11 @@
     <hr />
     <blockquote>
       {{ content }}
+      <br />
+      <div>
+        {% if page.precedent %}<a href="/histoire/{{ page.precedent }}" class="pull-right">Page précédente de l'histoire</>{% endif %}
+        {% if page.suite %}<a href="/histoire/{{ page.suite }}" class="pull-right">Suite de l'histoire</>{% endif %}
+      </div>
     </blockquote>
     {% include disqus.html %}
   </div>

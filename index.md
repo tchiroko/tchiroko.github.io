@@ -10,7 +10,7 @@ title: ''
   {% for post in site.posts %}
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-        <img src="{{ 'assets/post-bg.jpg' | append: site.github.build_revision | relative_url }}" alt="{{ post.title }}">
+        <img src="{{ 'assets/post-bg.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="{{ post.title }}">
         <div class="caption">
           <h3>{{ post.title }}</h3>
           <p>{{ post.auteur }}</p>

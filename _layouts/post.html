@@ -39,6 +39,12 @@
     </div>
   </header>
   <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        publié le {{ page.date | date: "%d/%m/%Y" }} par {% if page.email %}<a href="mailto:{{ page.email }}">{% endif %}{{ page.auteur}}{% if page.email %}</a>{% endif %}
+      </div>
+    </div>
+    <hr />
     <blockquote>
       {{ content }}
     </blockquote>

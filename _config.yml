@@ -24,7 +24,7 @@ metatags:
   description:    >- # this means to ignore newlines until "baseurl:"
     Site d'histoire X GAY
 baseurl:          "" # the subpath of your site, e.g. /blog
-url:              "" # the base hostname & protocol for your site, e.g. http://example.com
+url:              "http://tchiroko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yaoitoru
 github_username:  tchiroko
 google_analytics: UA-109528543-1

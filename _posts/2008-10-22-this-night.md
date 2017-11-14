@@ -1,0 +1,29 @@
+---
+layout: post
+title: This night
+auteur:
+  nom: blackjackvdn
+  email: blackjackvdn@hotmail.com
+metatags:
+  description: "histoire de bred se titulant This night"
+  keywords: gay
+excerpt: Le vendredi après-midi j'adore aller à la piscine pour mater les mecs en slip bien moulant.
+---
+Le vendredi après-midi j'adore aller à la piscine pour mater les mecs en slip bien moulant.
+Et surtout les suivre quand ils vont prendre leurs douches pour les voir se caresser, pisser et certain même se branler.
+
+Tout à l'heure, alors que j'étais un petit peu déçu car personne ne m'intéressait, arrive un mec de ma taille (1m86 pour ceux qui auraient oubliés) avec un torse poilu, musclé (mais pas trop), des cheveux noirs, des yeux gris (ça j'ai vu de près) et son entre-jambe laisse deviner une paire de couille énorme.
+Je l'observe de loin, puis je le vois plonger et quand il ressort de l'eau, son regard me fixe. Je nous imagine entrain de baiser devant tout le monde, et mon maillot commence à me faire un peu mal.
+Mais il disparaît sous l'eau. Je tente de le suivre sous l'eau, mais un jeune me demande de bouger pour qu'il puisse sauter. Je ne parviens plus à le retrouver, lorsque je sens une main qui me saisit les couilles. C'est lui, il remonte et me glisse à l'oreille d'aller prendre une douche. Lui-même se dirige vers les douches. Le message étant passer, je me dépêche de le suivre et je monte après lui à l'échelle, si bien que j'ai le nez dans son cul. Arrivé sous les douches, il prend une cabine (ouverte) tandis que moi je reste sous les douches murales. Il commence à se laver, m'offrant un spectacle grandiose, puis il abaisse son maillot, et une énorme bite en jaillit, comme libérée d'une étreinte.
+Il se caresse, puis sort nu pour aller pisser. Il se met de côté pour que je puisse l'observé, mais arrive un autre mec qui s'intercale entre lui et moi. Ce nouveau arrivant ne semble pas intéressé, il ne fait que regarder sa bite indifférenciable de sa touffe de poils. Je veux commencer à me caresser, mais il me fait signe que non, et sort toujours nu des douches pour récupérer ses habits. Celui qui garde les vêtements ne dit rien, mais l'observe. Il se dirige ensuite vers une cabine, mais le temps que je récupère mes affaires et il a disparut. Je me presse, puis dans une allée, un doigt me fait signe de venir. Je m'approche, et alors que je veux rentrer dans la cabine, il me tire vers lui, me roule une pelle, et referme la porte du pied. J'ai l'impression que mon maillot va exploser, et il s'en rend bien compte. !
+
+Il descend et commence à me caresser la queue à travers mon maillot. J'ai mon gland qui en dépasse,et il se met à le lécher. D'un coup, il tire mon maillot et commence à me pomper violemment la queue tout en me masturbant les couilles et le cul.
+Il suce divinement, et au bout de cinq minutes, je sens que je vais jouir, lorsqu'il s'arrête net, se relève et me présente sa bite molle qui fait au moins une quinzaine de centimètres. Je le pompe, et sa bite se met à grossir, si bien que à la fin je ne peux accueillir que le gland dans ma bouche.
+Il prend son pantalon, et sort une capote qu'il se met. Je devine évidemment ce qu'il veut faire, mais je n'imagine pas ce monstre me pénétrer.
+Il me penche en avant, et sans même faire un petit préliminaire à mon cul, il me l'enfonce d'un coup.
+J'ai une envie de hurler de douleur, mais aucun son ne sort de ma bouche. Il commence à accélérer, pour finalement me fendre le cul à une vitesse inimaginable.
+J'ai le cul en feu, et ça dure un quart d'heure avant qu'il ne me soulève par surprise.
+Il me tient en l'air, et je m'empale sur son pieu. Au bout de deux minutes, sans être sortit de mon cul, il s'assied sur le siège et continue de me soulever.
+Puis, c'est la délivrance, il sort de mon cul enlève la capote et me gicle dessus. J'en ai partout, sur la raie du cul, sur mes couilles, sur mon torse, mes jambes et mon visage. Je lui suce le gland pour bien récolter toute sa sève, et lui commence à me branler. Il me tend une capote, et je fais comme lui, j'enfile ma bite de 23 cm (qui n'est rien comparé à la sienne) d'un coup, et un frisson traverse son corps. J'essaye d'aller aussi vite que lui, et il aime ça. Après dix minutes, je lui dis de se retourner. Il enlève ma capote et engloutit ma bite pour tout avaler. Je suis trempé à la fois de sueur et de sperme. Lui aussi, et tous ses poils sont trempés, si bien que je commence à lui lécher le torse, les aisselles. On fini en 69, et on se pompe. Puis il veut me branler,alors je le laisse faire, et moi, je le branle.
+Après avoir gicler à nouveau, il commence à s'intéresser à mon cul qui commence à peine à rétrécir. Il récolte un peu de sperme de son torse et m'en badigeonne le cul, puis il passe sa bite contre ma raie, pour finalement me pénétrer, mais cette fois sa bite est molle. Après quelques va et vient, il en ressort pour y fourrer sa langue, tout en se masturbant. Quand il sent qu'il va gicler, il retire sa langue, et je sens un jet de foutre me pénétrer, puis c'est son gland. Il le remplace par un doigt pour bien appliquer le sperme. Il revint ensuit vers mes couilles, puis ma bite qu'il pompe. Nous ne parvenions pas à nous séparer, si bien que nous sommes restés en tout, quatre heures dans cette cabine. J'ose à peine imaginer la tête des gens qui entreront dans la cabine quand ils verront la quantité de sperme sur les murs et le sol. Nous avons échangés nos numéros de téléphone, et il m'a dit qu'il reviendrait vendredi prochain avec un ami. Même si mon cul en souffre encore, je suis impatient de rencontrer cet ami. Par contre je me demande si la cabine sera assez grande pour trois.
+Je bande tellement en racontant cela, que je dois vous laisser pour me soulager, bien que je ne pense plus avoir une goutte de sperme dans les couilles (tant mieux, ça durera plus longtemps).
